@@ -35,3 +35,4 @@ DATABASES = {
         'PASSWORD': conn_str_params['password'],
     }
 }
+# Path: azure_project/azure_project/settings.py
